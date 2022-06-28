@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white shadow-lg border rounded-md max-w-md w-1/3 p-4">
+  <div class="bg-white shadow-lg border rounded-md max-w-8xl mx-auto px-4 sm:px-6 md:px-8 p-4">
     <div>
       <label class="relative text-gray-400 focus-within:text-gray-600 block">
         <font-awesome-icon
